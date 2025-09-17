@@ -1,0 +1,1 @@
+{ "name": "fb-messenger-bot-cookie", "version": "1.0.0", "description": "Facebook Messenger Bot with 20+ public/admin commands (Mirai/Gotbot style)", "main": "index.js", "scripts": { "start": "node index.js" }, "dependencies": { "facebook-chat-api": "^1.7.0", "dotenv": "^16.0.0" } }
