@@ -1,0 +1,1 @@
+module.exports = { name: "ping", description: "Check if bot is alive", execute(api, message) { api.sendMessage("Pong! ✅", message.threadID); } };
